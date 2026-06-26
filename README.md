@@ -8,20 +8,22 @@ I focus on building products that create measurable value, combining data-driven
 
 **What I work on**
 
-AI Agents (Single-Agent, Multi-Agent, MCP, Browser)
-Generative AI & LLM Application Development
-Retrieval-Augmented Generation (RAG) & Hybrid Search
-AI Workflow Design, Evaluation & Prompt Engineering
-Conversational AI for Documents, GitHub, Gmail & Enterprise Knowledge
-Product Discovery, UX Prototyping & Agile Product Delivery
+* 🤖 **AI Agents** — Single-Agent, Multi-Agent, MCP-based, and browser-automating agents.
+* 🚀 **Generative AI & LLM App Development** — Building production-grade AI applications and custom agentic workflows.
+* 🔍 **Retrieval-Augmented Generation (RAG)** — Designing advanced RAG pipelines, semantic search, and hybrid vector indexing.
+* ⚙️ **AI Workflow Design & Prompt Engineering** — Architecting robust prompts, agent evaluation, and orchestrator patterns.
+* 📂 **Conversational AI for Enterprise Knowledge** — Chat-with-anything applications integrating GitHub, Gmail, and enterprise documents.
+* 🎯 **Product Discovery & Agile Delivery** — Translating business goals into UX prototypes, structured backlogs, and shipped software.
 
-**Featured Projects
-DocuShift – AI-powered document intelligence and workflow automation platform.
-Digital Twin for Precision Oncology – AI-driven cancer prediction and treatment simulation platform.
-Smart City Citizen App – Citizen engagement, grievance management, and municipal services application.
+**Featured Projects**
+
+* 📄 **DocuShift** — AI-powered document intelligence and workflow automation platform.
+* 🧬 **Digital Twin for Precision Oncology** — AI-driven cancer prediction and multi-variable treatment simulation platform.
+* 🏙️ **Smart City Citizen App** — Citizen engagement, grievance management, and municipal services application.
 
 <h2> About Me </h2>
 
 - 🎓 **PhD Candidate in AI and ML** (Ongoing)
-- 💼 **Senior Product Owner** with 9+ years of product leadership and strategic execution experience
+- 💼 **Senior Product Owner / Consultant** with 9+ years of product leadership and strategic execution experience
 - 🎓 **MBA in International Business** & **B.Tech in Computer Science**
+- 📍 Based in **Bengaluru, India** | [Portfolio Website](https://satyampandey.online/) | [Contact](mailto:satyam@buzinesskart.com)
