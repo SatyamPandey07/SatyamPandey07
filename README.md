@@ -2,7 +2,7 @@
 
 I drive product strategy, agile execution, and digital transformation to turn complex challenges into scalable enterprise products. 
 
-Most of my work is focused on bridging the gap between business vision and engineering excellence: defining clear roadmaps, coaching agile teams, managing high-impact backlogs, and providing domain-specific consulting in CMMS, IoT, Smart Cities, Telecom, and P&C Insurance.
+Most of my work is focused on bridging the gap between business vision and engineering excellence: defining clear roadmaps, coaching agile teams, managing high-impact backlogs, and providing domain-specific consulting in CMMS, IoT, Smart Cities, Telecom, and Insurance.
 
 I focus on building products that create measurable value, combining data-driven decision making with deep customer empathy to optimize user adoption and scale operations.
 
