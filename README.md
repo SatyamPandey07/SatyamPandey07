@@ -26,4 +26,3 @@ I focus on building products that create measurable value, combining data-driven
 - 🎓 **PhD Candidate in AI and ML** (Ongoing)
 - 💼 **Senior Product Owner / Consultant** with 9+ years of product leadership and strategic execution experience
 - 🎓 **MBA in International Business** & **B.Tech in Computer Science**
-- 📍 Based in **Bengaluru, India** | [Portfolio Website](https://satyampandey.online/) | [Contact](mailto:satyam@buzinesskart.com)
