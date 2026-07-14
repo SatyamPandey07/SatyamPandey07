@@ -1,4 +1,4 @@
-<h1> Hi, I'm Satyam! </h1>
+<h1> Hi, I'm Satyam </h1>
 
 I drive product strategy, agile execution, and digital transformation to turn complex challenges into scalable enterprise products. 
 
